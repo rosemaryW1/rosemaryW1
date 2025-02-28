@@ -2,7 +2,7 @@
 
 ### 💻 Software Engineer | AI Enthusiast | Open Source Contributor  
 
-🚀 Passionate about **building cutting-edge AI-driven software solutions** and crafting seamless user experiences. With a strong background in backend and full-stack development, I specialize in **Python, Go, TypeScript, and cloud computing**.  
+🚀 Passionate about **building cutting-edge AI-driven software solutions** and crafting seamless user experiences. With a strong background in backend and full-stack development, I specialize in **Python, Go, TypeScript,React, React Native and cloud computing**.  
 
 ---
 
@@ -17,7 +17,7 @@
 ### 🔭 Experience:
 👩‍💻 **Software Engineer Intern at Microsoft** – Worked on test automation, cloud infrastructure, and Playwright testing for **Azure Entra Domain Services**.  
 
-💡 **Software Engineer Intern at Agile Business Solutions** – Gained experience in **Azure, ERP systems, and full-stack web development**.  
+💡 **Software Engineer Intern at Agile Business Solutions** – Gained experience in **Azure, ERP systems, and full-stack web development leveraging Next js**.  
 
 ---
 
