@@ -2,7 +2,7 @@
 
 ### 💻 Software Engineer | AI Enthusiast | Open Source Contributor  
 
-🚀 Passionate about **building cutting-edge AI-driven software solutions** and crafting seamless user experiences. With a strong background in backend and full-stack development, I specialize in **Python, Go, TypeScript,React, React Native and cloud computing**.  
+🚀 Passionate about **building cutting-edge AI-driven software solutions** and crafting seamless user experiences. With a strong background in backend and full-stack development, I specialize in **Python, Go, TypeScript, React, React Native and cloud computing**.  
 
 ---
 
@@ -53,12 +53,16 @@
       <br>React
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
-      <br>Node.js
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React Native"/>
+      <br>React Native
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/fastapi-design/brand/main/logo/png/fastapi-logo-500x500.png" height="50" alt="FastAPI"/>
       <br>FastAPI
+    </td>
+    <td align="center">
+      <img src="https://github.com/withastro/astro/blob/main/assets/social/banner-dark.png?raw=true" height="50" alt="Astro"/>
+      <br>Astro
     </td>
   </tr>
 </table>
@@ -117,7 +121,6 @@
 - 🔥 I aim to **leverage AI to build next-generation software products** that make a real impact.  
 - 🌍 Passionate about **open-source contributions** and the **tech community**.  
 - 🏢 **Worked at Microsoft as a Software Engineer Intern** on **Azure cloud technologies**.  
-- 🎨 Love **UI/UX design**, drawing, and experimenting with creative interfaces.  
 
 ---
 
