@@ -17,8 +17,9 @@
 ### 🔭 Experience:
 👩‍💻 **Software Engineer Intern at Microsoft** – Worked on test automation, cloud infrastructure, and Playwright testing for **Azure Entra Domain Services**.  
 
-💡 **Software Engineer Intern at Agile Business Solutions** – Gained experience in **Azure, ERP systems, and full-stack web development using Next js**.  
-💡 **Software Developer at Health Data Accumen Global** – Gained experience in **Astro framework building an end to end website and hosting it on Digital Ocean**. 
+💡 **Software Engineer Intern at Agile Business Solutions** – Gained experience in **Azure, ERP systems, and full-stack web development using Next js**. 
+
+🛠 **Software Developer at Health Data Accumen Global** – Gained experience in **Astro framework building an end to end website and hosting it on Digital Ocean**. 
 
 ---
 
